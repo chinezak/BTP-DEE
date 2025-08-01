@@ -1,0 +1,6 @@
+{
+  "name": "Digital Evidence Explorer (DEE)",
+  "description": "A secure, AI-powered application for the British Transport Police to manage, analyze, and search digital evidence using Gemini AI, Cloud Storage, and BigQuery.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
